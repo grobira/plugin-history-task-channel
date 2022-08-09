@@ -1,0 +1,65 @@
+{
+  "pagination": {
+    "perPage": 1,
+    "totalPages": 30,
+    "currentPage": 3,
+    "totalEntries": 30,
+    "prevPage": 2,
+    "nextPage": 4
+  },
+  "channels": [
+    {
+      "id": 10884383,
+      "messages": [
+        {
+          "body": "=)",
+          "origin": "Maria Fernanda R. de Castro",
+          "isGuest": false,
+          "sendedAt": "2022-04-07T18:45:03.000Z"
+        },
+        {
+          "body": "Vinicius,",
+          "origin": "Maria Fernanda R. de Castro",
+          "isGuest": false,
+          "sendedAt": "2022-04-07T18:46:01.000Z"
+        },
+        {
+          "body": "Devido a uma instabilidade, você pode estar sentindo dificuldades de transacionar ou realizar saques com o cartão Stone e está sendo notificado com uma mensagem de erro. Nosso time já está em contato com o autorizador solicitando um prazo de normalização. Caso possível, tente realizar o pagamento via PIX.",
+          "origin": "Maria Fernanda R. de Castro",
+          "isGuest": false,
+          "sendedAt": "2022-04-07T18:46:02.000Z"
+        },
+        {
+          "body": "Ah ok",
+          "origin": "Vinicius | 167079830",
+          "isGuest": true,
+          "sendedAt": "2022-04-07T18:49:00.000Z"
+        },
+        {
+          "body": "Muito obrigado",
+          "origin": "Vinicius | 167079830",
+          "isGuest": true,
+          "sendedAt": "2022-04-07T18:49:05.000Z"
+        },
+        {
+          "body": "Tenha um ótimo dia",
+          "origin": "Vinicius | 167079830",
+          "isGuest": true,
+          "sendedAt": "2022-04-07T18:49:09.000Z"
+        },
+        {
+          "body": "Imagina, disponha! Tenha um otimo dia 😄💚",
+          "origin": "Maria Fernanda R. de Castro",
+          "isGuest": false,
+          "sendedAt": "2022-04-07T18:49:55.000Z"
+        }
+      ],
+      "channelSid": "CH48ebf73272214857b2caee7038426541",
+      "channelType": "whatsapp",
+      "taskDateCreated": "1649357097",
+      "taskQueueName": "Banking N2 [channel:WhatsApp][team:RC]",
+      "timestamp": "1649358705",
+      "createdAt": "2022-04-07T19:11:46.106Z"
+    }
+  ]
+}
